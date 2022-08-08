@@ -1,13 +1,15 @@
-# Name 
-**Oleg Pavlov**
+## Name **Oleg Pavlov**
 
 ## Contacts
 **Github**-_Olehsey717273_
+
 **Email**-_olegpavlov2001@mail.ru_
+
 **Telegram**-_@olehsey_
 
 ## About me
 _I am a young and motivated student who wants to learn programming_
+
 My strengths:
 * Perseverance
 * Industriousness
@@ -38,4 +40,4 @@ animation: blackwhite 3s infinite;
 </style>
 <p class="black-white"> черно-белый</p>
 ```
-## English level b1
+## English level - b1 Intermediate
